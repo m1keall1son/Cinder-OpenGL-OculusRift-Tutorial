@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/src/MultipleCamerasApp.cpp \
+  ../../../cinder/include/cinder/app/AppNative.h \
+  ../../../cinder/include/cinder/Camera.h \
+  ../../../cinder/include/cinder/TriMesh.h \
+  ../../../cinder/include/cinder/gl/Fbo.h \
+  ../../../cinder/include/cinder/gl/Texture.h \
+  ../../../cinder/include/cinder/gl/GlslProg.h \
+  ../../../cinder/include/cinder/gl/Light.h \
+  ../../../cinder/include/cinder/gl/Material.h \
+  ../../../cinder/include/cinder/ObjLoader.h \
+  ../../../cinder/boost/boost/tuple/tuple_comparison.hpp \
+  ../../../cinder/boost/boost/tuple/tuple.hpp \
+  ../../../cinder/boost/boost/tuple/detail/tuple_basic.hpp \
+  ../../../cinder/boost/boost/type_traits/cv_traits.hpp \
+  ../../../cinder/boost/boost/type_traits/add_cv.hpp \
+  /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/../../../cinder/boost/boost/type_traits/detail/type_trait_def.hpp \
+  /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/../../../cinder/boost/boost/type_traits/detail/template_arity_spec.hpp \
+  /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/../../../cinder/boost/boost/type_traits/detail/type_trait_undef.hpp \
+  ../../../cinder/boost/boost/type_traits/remove_volatile.hpp

@@ -1,0 +1,411 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 44;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0091D8F90E81B9330029341E /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0091D8F80E81B9330029341E /* OpenGL.framework */; };
+		00B784B30FF439BC000DE1D7 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B784AF0FF439BC000DE1D7 /* Accelerate.framework */; };
+		00B784B40FF439BC000DE1D7 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B784B00FF439BC000DE1D7 /* AudioToolbox.framework */; };
+		00B784B50FF439BC000DE1D7 /* AudioUnit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B784B10FF439BC000DE1D7 /* AudioUnit.framework */; };
+		00B784B60FF439BC000DE1D7 /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B784B20FF439BC000DE1D7 /* CoreAudio.framework */; };
+		5323E6B20EAFCA74003A9687 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5323E6B10EAFCA74003A9687 /* CoreVideo.framework */; };
+		5323E6B60EAFCA7E003A9687 /* QTKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5323E6B50EAFCA7E003A9687 /* QTKit.framework */; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		257B1BC2B6654E96A8FDF31D /* IOSurface.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15E6A289233241509D0D968A /* IOSurface.framework */; };
+		9D26144F5785426D88CD6ABE /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A35DA7CDEF674B95AD3A8C9D /* IOKit.framework */; };
+		6A94F6E2CC3548CDA1B4FAFA /* OVRVersion.h in Headers */ = {isa = PBXBuildFile; fileRef = 6A367FB5FF1F4671B2FDA502 /* OVRVersion.h */; };
+		1916E167BFD4418A9CC2B312 /* OVR.h in Headers */ = {isa = PBXBuildFile; fileRef = 1779902287B443ADAF07574D /* OVR.h */; };
+		4F6BF7D8539148FD963B19FC /* OculusVR.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D079C025AB046128405387D /* OculusVR.cpp */; };
+		430D67FC114C4E9CA839319F /* CameraStereoHMD.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 37ACFCCD4F9B47E08CFC2ED9 /* CameraStereoHMD.cpp */; };
+		707B8B40AFDA48AAB1F0DAFB /* OculusVR.h in Headers */ = {isa = PBXBuildFile; fileRef = F7B16F4C8EC04F419AFF1288 /* OculusVR.h */; };
+		D986EA5000474651BC236C8F /* CameraStereoHMD.h in Headers */ = {isa = PBXBuildFile; fileRef = 3C4AF1B98CE9485A96C88B3C /* CameraStereoHMD.h */; };
+		93D29F4F29444BF0A0B492D2 /* oculusBaseApp_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = EFF305FABEE949C1909CD341 /* oculusBaseApp_Prefix.pch */; };
+		F19E17885F424EDD911DEFE6 /* CinderApp.icns in Resources */ = {isa = PBXBuildFile; fileRef = DFD8F438E5BD4BAA88BF8A27 /* CinderApp.icns */; };
+		632C081429D04252B2579DBF /* Resources.h in Headers */ = {isa = PBXBuildFile; fileRef = 6AE447B8E5BA42A1A97005D1 /* Resources.h */; };
+		8FB9B552736B41A7AF5A2486 /* oculusBaseAppApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5FCFC6EA912D49B9AB5232E5 /* oculusBaseAppApp.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0091D8F80E81B9330029341E /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = /System/Library/Frameworks/OpenGL.framework; sourceTree = "<absolute>"; };
+		00B784AF0FF439BC000DE1D7 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
+		00B784B00FF439BC000DE1D7 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		00B784B10FF439BC000DE1D7 /* AudioUnit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioUnit.framework; path = System/Library/Frameworks/AudioUnit.framework; sourceTree = SDKROOT; };
+		00B784B20FF439BC000DE1D7 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		5323E6B10EAFCA74003A9687 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = /System/Library/Frameworks/CoreVideo.framework; sourceTree = "<absolute>"; };
+		5323E6B50EAFCA7E003A9687 /* QTKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QTKit.framework; path = /System/Library/Frameworks/QTKit.framework; sourceTree = "<absolute>"; };
+		8D1107320486CEB800E47090 /* oculusBaseApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = oculusBaseApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5FCFC6EA912D49B9AB5232E5 /* oculusBaseAppApp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.cpp; path = ../src/oculusBaseAppApp.cpp; sourceTree = "<group>"; name = oculusBaseAppApp.cpp; };
+		6AE447B8E5BA42A1A97005D1 /* Resources.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ../include/Resources.h; sourceTree = "<group>"; name = Resources.h; };
+		DFD8F438E5BD4BAA88BF8A27 /* CinderApp.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = ../resources/CinderApp.icns; sourceTree = "<group>"; name = CinderApp.icns; };
+		7132707E4D9240D2A0B22FC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; name = Info.plist; };
+		EFF305FABEE949C1909CD341 /* oculusBaseApp_Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = "\"\""; path = oculusBaseApp_Prefix.pch; sourceTree = "<group>"; name = oculusBaseApp_Prefix.pch; };
+		3C4AF1B98CE9485A96C88B3C /* CameraStereoHMD.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ../blocks/OculusRift/src/CameraStereoHMD.h; sourceTree = "<group>"; name = CameraStereoHMD.h; };
+		F7B16F4C8EC04F419AFF1288 /* OculusVR.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ../blocks/OculusRift/src/OculusVR.h; sourceTree = "<group>"; name = OculusVR.h; };
+		37ACFCCD4F9B47E08CFC2ED9 /* CameraStereoHMD.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.cpp; path = ../blocks/OculusRift/src/CameraStereoHMD.cpp; sourceTree = "<group>"; name = CameraStereoHMD.cpp; };
+		8D079C025AB046128405387D /* OculusVR.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.cpp; path = ../blocks/OculusRift/src/OculusVR.cpp; sourceTree = "<group>"; name = OculusVR.cpp; };
+		1779902287B443ADAF07574D /* OVR.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ../blocks/OculusRift/LibOVR/Include/OVR.h; sourceTree = "<group>"; name = OVR.h; };
+		6A367FB5FF1F4671B2FDA502 /* OVRVersion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ../blocks/OculusRift/LibOVR/Include/OVRVersion.h; sourceTree = "<group>"; name = OVRVersion.h; };
+		A35DA7CDEF674B95AD3A8C9D /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; name = IOKit.framework; };
+		15E6A289233241509D0D968A /* IOSurface.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = System/Library/Frameworks/IOSurface.framework; sourceTree = SDKROOT; name = IOSurface.framework; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+				0091D8F90E81B9330029341E /* OpenGL.framework in Frameworks */,
+				5323E6B20EAFCA74003A9687 /* CoreVideo.framework in Frameworks */,
+				5323E6B60EAFCA7E003A9687 /* QTKit.framework in Frameworks */,
+				00B784B30FF439BC000DE1D7 /* Accelerate.framework in Frameworks */,
+				00B784B40FF439BC000DE1D7 /* AudioToolbox.framework in Frameworks */,
+				00B784B50FF439BC000DE1D7 /* AudioUnit.framework in Frameworks */,
+				00B784B60FF439BC000DE1D7 /* CoreAudio.framework in Frameworks */,
+				9D26144F5785426D88CD6ABE /* IOKit.framework in Frameworks */,
+				257B1BC2B6654E96A8FDF31D /* IOSurface.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				5FCFC6EA912D49B9AB5232E5 /* oculusBaseAppApp.cpp */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				00B784AF0FF439BC000DE1D7 /* Accelerate.framework */,
+				00B784B00FF439BC000DE1D7 /* AudioToolbox.framework */,
+				00B784B10FF439BC000DE1D7 /* AudioUnit.framework */,
+				00B784B20FF439BC000DE1D7 /* CoreAudio.framework */,
+				5323E6B50EAFCA7E003A9687 /* QTKit.framework */,
+				5323E6B10EAFCA74003A9687 /* CoreVideo.framework */,
+				0091D8F80E81B9330029341E /* OpenGL.framework */,
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107320486CEB800E47090 /* oculusBaseApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* oculusBaseApp */ = {
+			isa = PBXGroup;
+			children = (
+				01B97315FEAEA392516A2CEA /* Blocks */,
+				29B97315FDCFA39411CA2CEA /* Headers */,
+				080E96DDFE201D6D7F000001 /* Source */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = oculusBaseApp;
+			sourceTree = "<group>";
+		};
+		5A0389F05D4E434380C1CFB4 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				3C4AF1B98CE9485A96C88B3C /* CameraStereoHMD.h */,
+				F7B16F4C8EC04F419AFF1288 /* OculusVR.h */,
+				37ACFCCD4F9B47E08CFC2ED9 /* CameraStereoHMD.cpp */,
+				8D079C025AB046128405387D /* OculusVR.cpp */,
+			);
+			name = src;
+			sourceTree = "<group>";
+		};
+		412CB8E43FE84268BDA61EB4 /* Include */ = {
+			isa = PBXGroup;
+			children = (
+				1779902287B443ADAF07574D /* OVR.h */,
+				6A367FB5FF1F4671B2FDA502 /* OVRVersion.h */,
+			);
+			name = Include;
+			sourceTree = "<group>";
+		};
+		673B9C68FD54423DA73698A1 /* LibOVR */ = {
+			isa = PBXGroup;
+			children = (
+				412CB8E43FE84268BDA61EB4 /* Include */,
+			);
+			name = LibOVR;
+			sourceTree = "<group>";
+		};
+		0D089505ABD841598E9410D7 /* OculusRift */ = {
+			isa = PBXGroup;
+			children = (
+				5A0389F05D4E434380C1CFB4 /* src */,
+				673B9C68FD54423DA73698A1 /* LibOVR */,
+			);
+			name = OculusRift;
+			sourceTree = "<group>";
+		};
+		01B97315FEAEA392516A2CEA /* Blocks */ = {
+			isa = PBXGroup;
+			children = (
+				0D089505ABD841598E9410D7 /* OculusRift */,
+			);
+			name = Blocks;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				6AE447B8E5BA42A1A97005D1 /* Resources.h */,
+				EFF305FABEE949C1909CD341 /* oculusBaseApp_Prefix.pch */,
+			);
+			name = Headers;
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				DFD8F438E5BD4BAA88BF8A27 /* CinderApp.icns */,
+				7132707E4D9240D2A0B22FC3 /* Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+				A35DA7CDEF674B95AD3A8C9D /* IOKit.framework */,
+				15E6A289233241509D0D968A /* IOSurface.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* oculusBaseApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "oculusBaseApp" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = oculusBaseApp;
+			productInstallPath = "$(HOME)/Applications";
+			productName = oculusBaseApp;
+			productReference = 8D1107320486CEB800E47090 /* oculusBaseApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "oculusBaseApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* oculusBaseApp */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* oculusBaseApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F19E17885F424EDD911DEFE6 /* CinderApp.icns in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8FB9B552736B41A7AF5A2486 /* oculusBaseAppApp.cpp in Sources */,
+				430D67FC114C4E9CA839319F /* CameraStereoHMD.cpp in Sources */,
+				4F6BF7D8539148FD963B19FC /* OculusVR.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				DEAD_CODE_STRIPPING = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = oculusBaseApp_Prefix.pch;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"\"$(CINDER_PATH)/lib/libcinder_d.a\"",
+					../blocks/OculusRift/LibOVR/Lib/MacOS/Debug/libovr.a,
+					../blocks/OculusRift/LibOVR/Lib/MacOS/Release/libovr.a,
+				);
+				PRODUCT_NAME = oculusBaseApp;
+				WRAPPER_EXTENSION = app;
+				SYMROOT = ./build;
+				LIBRARY_SEARCH_PATHS = (
+					"\"../blocks/OculusRift/LibOVR/Lib/MacOS/$(CONFIGURATION)\"",
+				);
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				DEAD_CODE_STRIPPING = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_FAST_MATH = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = oculusBaseApp_Prefix.pch;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"\"$(CINDER_PATH)/lib/libcinder.a\"",
+					../blocks/OculusRift/LibOVR/Lib/MacOS/Debug/libovr.a,
+					../blocks/OculusRift/LibOVR/Lib/MacOS/Release/libovr.a,
+				);
+				PRODUCT_NAME = oculusBaseApp;
+				STRIP_INSTALLED_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+				SYMROOT = ./build;
+				LIBRARY_SEARCH_PATHS = (
+					"\"../blocks/OculusRift/LibOVR/Lib/MacOS/$(CONFIGURATION)\"",
+				);
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = i386;
+				CINDER_PATH = "../../../cinder";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"\"$(CINDER_PATH)/boost\"",
+					../blocks/OculusRift/LibOVR/Include,
+					../blocks/OculusRift/LibOVR/Src,
+					../blocks/OculusRift/LibOVR/Src/Kernel,
+					../blocks/OculusRift/LibOVR/Src/Util,
+					../blocks/OculusRift/src,
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+				USER_HEADER_SEARCH_PATHS = "\"$(CINDER_PATH)/include\" ../include";
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = i386;
+				CINDER_PATH = "../../../cinder";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"\"$(CINDER_PATH)/boost\"",
+					../blocks/OculusRift/LibOVR/Include,
+					../blocks/OculusRift/LibOVR/Src,
+					../blocks/OculusRift/LibOVR/Src/Kernel,
+					../blocks/OculusRift/LibOVR/Src/Util,
+					../blocks/OculusRift/src,
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+				USER_HEADER_SEARCH_PATHS = "\"$(CINDER_PATH)/include\" ../include";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "oculusBaseApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "oculusBaseApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
