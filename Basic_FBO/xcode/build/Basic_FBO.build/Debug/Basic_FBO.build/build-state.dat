@@ -6,6 +6,8 @@ cProcessInfoPlistFile /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xc
 cCpResource /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/resources/CinderApp.icns build/Debug/Basic_FBO.app/Contents/Resources/CinderApp.icns
 cProcessPCH++ /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Basic_FBO_Prefix-dcvxbtlcraqqxzgngbtognoivrtw/Basic_FBO_Prefix.pch.pch Basic_FBO_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.o /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app/Contents/MacOS/Basic_FBO normal i386
+cTouch /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
 c00000000530295C100000000000000AA
@@ -4388,9 +4390,9 @@ t1366821758
 s25705
 
 N/Users/destructor/Documents/cinder/lib/libcinder_d.a
-c0000000051DB3B46000000000178B748
-t1373322054
-s24688456
+c0000000053A6E70D00000000017C92F8
+t1403447053
+s24941304
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/resources/CinderApp.icns
 c0000000053A204990000000000070375
@@ -4398,8 +4400,8 @@ t1403126937
 s459637
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp
-c0000000053A20F7E0000000000000971
-t1403129726
+c0000000053A714DA0000000000000971
+t1403458778
 s2417
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/Basic_FBO_Prefix.pch
@@ -4418,11 +4420,11 @@ t1403127469
 s141
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.o
-t1403129684
+t1403458779
 s2030264
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app
-t1403129648
+t1403458696
 s102
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app/Contents/Info.plist
@@ -4430,8 +4432,8 @@ t1403127469
 s1487
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app/Contents/MacOS/Basic_FBO
-t1403129685
-s2954836
+t1403458780
+s2842308
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app/Contents/PkgInfo
 t1403127469
@@ -4450,11 +4452,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies151be3fe4652b941^7006e7fe4652b941^---0#1#1#--18"Check dependencies36"A0961366-7F24-417D-AED2-C66F5E3543B8-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd4617d5a4c57b941^f8dd805a4c57b941^---0#1#1#--18"Check dependencies36"865F51FC-EBCA-43D9-AB6D-E98865AC0D79-
 
 CCompileC build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.o /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s424822526.896963
-e424822528.201171
+s425151578.500793
+e425151579.714667
 r1
 xCompileC
 xbuild/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.o
@@ -4467,8 +4469,8 @@ d/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp
 d/Users/destructor/Documents/cinder/include/cinder/app/AppNative.h
 d/Users/destructor/Documents/cinder/include/cinder/gl/Fbo.h
 d/Users/destructor/Documents/cinder/include/cinder/gl/Texture.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp224"CompileC build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.o /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler57b4e5fe4652b941^dc8033004752b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp0000000000000000^3191"CompileC build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.o /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Basic_FBO-generated-files.hmap -I/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Basic_FBO-own-target-headers.hmap -I/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Basic_FBO-all-target-headers.hmap -iquote /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Basic_FBO-project-headers.hmap -iquote../../../cinder/include -iquote../include -I/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/include -I../../../cinder/boost -I/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/DerivedSources/i386 -I/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/DerivedSources -F/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug -include /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Basic_FBO_Prefix-dcvxbtlcraqqxzgngbtognoivrtw/Basic_FBO_Prefix.pch -MMD -MT dependencies -MF /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.d --serialize-diagnostics /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.dia -c /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp -o /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.o36"65CEFDB5-0002-4B47-A894-61A48838C9AF-
-bB43E6AA5-0859-4430-850C-EB7D4E386852
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp224"CompileC build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.o /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerfa46805a4c57b941^3700b75b4c57b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp0000000000000000^3191"CompileC build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.o /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Basic_FBO-generated-files.hmap -I/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Basic_FBO-own-target-headers.hmap -I/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Basic_FBO-all-target-headers.hmap -iquote /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Basic_FBO-project-headers.hmap -iquote../../../cinder/include -iquote../include -I/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/include -I../../../cinder/boost -I/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/DerivedSources/i386 -I/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/DerivedSources -F/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug -include /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Basic_FBO_Prefix-dcvxbtlcraqqxzgngbtognoivrtw/Basic_FBO_Prefix.pch -MMD -MT dependencies -MF /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.d --serialize-diagnostics /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.dia -c /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/src/Basic_FBOApp.cpp -o /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBOApp.o36"FDC66182-4BEB-43A7-8F73-CE042C7C252F-
+b2F226802-CDA3-446F-B19A-BDD505172974
 
 CCpResource /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/resources/CinderApp.icns build/Debug/Basic_FBO.app/Contents/Resources/CinderApp.icns
 s424820269.129231
@@ -4481,8 +4483,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy bu
 b0B55FD95-B95F-40C8-99F4-63B2079B4F8C
 
 CLd /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app/Contents/MacOS/Basic_FBO normal i386
-s424822484.531004
-e424822485.225519
+s425151579.716418
+e425151580.360335
 r1
 xLd
 x/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app/Contents/MacOS/Basic_FBO
@@ -4504,8 +4506,6 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.eprintf.a
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
@@ -4540,11 +4540,13 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
@@ -4566,8 +4568,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app/Contents/MacOS/Basic_FBO65"Ld build/Debug/Basic_FBO.app/Contents/MacOS/Basic_FBO normal i38601fc87d44652b941^66bc39d54652b941^---0#0#1#--1261"Ld build/Debug/Basic_FBO.app/Contents/MacOS/Basic_FBO normal i386    cd /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug -F/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug -filelist /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBO.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBO_dependency_info.dat -o /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app/Contents/MacOS/Basic_FBO36"A1D63828-6FA1-488C-807F-B5CA482F0041-
-b23996BB1-0BD8-4D12-93B7-CB442E98AAF2
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app/Contents/MacOS/Basic_FBO65"Ld build/Debug/Basic_FBO.app/Contents/MacOS/Basic_FBO normal i386ef74b75b4c57b941^18405c5c4c57b941^---0#0#1#--1261"Ld build/Debug/Basic_FBO.app/Contents/MacOS/Basic_FBO normal i386    cd /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug -F/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug -filelist /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBO.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Basic_FBO.build/Debug/Basic_FBO.build/Objects-normal/i386/Basic_FBO_dependency_info.dat -o /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app/Contents/MacOS/Basic_FBO36"128751FB-1EC9-40F2-A576-ECDB77374E29-
+b2F226802-CDA3-446F-B19A-BDD505172974
 
 CProcessInfoPlistFile /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app/Contents/Info.plist /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/Info.plist
 s424820269.126387
@@ -5389,11 +5391,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precomp
 b0B55FD95-B95F-40C8-99F4-63B2079B4F8C
 
 CTouch /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app
-s424822485.226318
-e424822485.229274
+s425151580.361296
+e425151580.365626
 r1
 xTouch
 x/Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Touch /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app31"Touch build/Debug/Basic_FBO.appa1f839d54652b941^d1b23ad54652b941^---0#0#1#--211"Touch build/Debug/Basic_FBO.app    cd /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app36"B65B6310-4539-4BB3-A150-46DBB2C6E78E-
-b23996BB1-0BD8-4D12-93B7-CB442E98AAF2
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Touch /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app31"Touch build/Debug/Basic_FBO.app8b8a5c5c4c57b941^fa9a5d5c4c57b941^---0#0#1#--211"Touch build/Debug/Basic_FBO.app    cd /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderOculusDemos/Basic_FBO/xcode/build/Debug/Basic_FBO.app36"66132A11-3235-4EE2-9679-A8264F3E4323-
+b2F226802-CDA3-446F-B19A-BDD505172974
 

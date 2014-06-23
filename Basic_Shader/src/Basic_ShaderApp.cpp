@@ -71,6 +71,7 @@ void Basic_ShaderApp::setup()
     //pass in the shader programs as Char* strings
     mGlsl = gl::GlslProg::create( vertex.c_str(), fragment.c_str() );
     
+    
 }
 
 void Basic_ShaderApp::mouseDown( MouseEvent event )
@@ -96,3 +97,8 @@ void Basic_ShaderApp::draw()
 }
 
 CINDER_APP_NATIVE( Basic_ShaderApp, RendererGl )
+
+
+
+
+

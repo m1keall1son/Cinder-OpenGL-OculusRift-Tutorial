@@ -4405,9 +4405,9 @@ t1366821758
 s25705
 
 N/Users/destructor/Documents/cinder/lib/libcinder_d.a
-c0000000051DB3B46000000000178B748
-t1373322054
-s24688456
+c0000000053A6E70D00000000017C92F8
+t1403447053
+s24941304
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/resources/CinderApp.icns
 c0000000053A31B3A0000000000070375
@@ -4439,7 +4439,7 @@ t1403199550
 s2438568
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app
-t1403199541
+t1403199551
 s102
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app/Contents/Info.plist
@@ -4447,8 +4447,8 @@ t1403198606
 s1523
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app/Contents/MacOS/Basic_MeshDeformation
-t1403199551
-s3113004
+t1403460275
+s2988560
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app/Contents/PkgInfo
 t1403198606
@@ -4467,7 +4467,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies149826bd5753b941^b1512abd5753b941^---0#1#1#--18"Check dependencies36"7D762E52-AFEB-4036-85FA-5AB459B4CEDB-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4ca5b7325257b941^b35ec0325257b941^---0#1#1#--18"Check dependencies36"F5DEED16-D1BF-43E7-8FDA-7B7769BB378B-
 
 CCompileC build/Basic_MeshDeformation.build/Debug/Basic_MeshDeformation.build/Objects-normal/i386/Basic_MeshDeformationApp.o /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/src/Basic_MeshDeformationApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s424892349.160930
@@ -4501,8 +4501,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy bu
 bC5F8E97D-9738-46F5-B219-E67306F7A4A8
 
 CLd /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app/Contents/MacOS/Basic_MeshDeformation normal i386
-s424892350.751389
-e424892351.435714
+s425153074.764493
+e425153075.406027
 r1
 xLd
 x/Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app/Contents/MacOS/Basic_MeshDeformation
@@ -4565,6 +4565,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.A.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
@@ -4576,8 +4578,6 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.A.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
@@ -4586,8 +4586,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Link /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app/Contents/MacOS/Basic_MeshDeformation89"Ld build/Debug/Basic_MeshDeformation.app/Contents/MacOS/Basic_MeshDeformation normal i386be67c0be5753b941^ac8b6fbf5753b941^---0#0#1#--1453"Ld build/Debug/Basic_MeshDeformation.app/Contents/MacOS/Basic_MeshDeformation normal i386    cd /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug -F/Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug -filelist /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Basic_MeshDeformation.build/Debug/Basic_MeshDeformation.build/Objects-normal/i386/Basic_MeshDeformation.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Basic_MeshDeformation.build/Debug/Basic_MeshDeformation.build/Objects-normal/i386/Basic_MeshDeformation_dependency_info.dat -o /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app/Contents/MacOS/Basic_MeshDeformation36"021F8198-214D-4416-A69C-3E71B384652E-
-bF5DECD89-C595-46E3-BF0A-9F2688B4C5C2
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Link /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app/Contents/MacOS/Basic_MeshDeformation89"Ld build/Debug/Basic_MeshDeformation.app/Contents/MacOS/Basic_MeshDeformation normal i38633c2c3325257b941^6bf367335257b941^---0#0#1#--1453"Ld build/Debug/Basic_MeshDeformation.app/Contents/MacOS/Basic_MeshDeformation normal i386    cd /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug -F/Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug -filelist /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Basic_MeshDeformation.build/Debug/Basic_MeshDeformation.build/Objects-normal/i386/Basic_MeshDeformation.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Basic_MeshDeformation.build/Debug/Basic_MeshDeformation.build/Objects-normal/i386/Basic_MeshDeformation_dependency_info.dat -o /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app/Contents/MacOS/Basic_MeshDeformation36"AF13E1CC-0498-4021-B68F-9D41AD4B1F94-
+b2D339F58-7ECE-4A0B-B29B-DE078CC3D609
 
 CProcessInfoPlistFile /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app/Contents/Info.plist /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/Info.plist
 s424891406.073364
@@ -5409,11 +5409,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precomp
 bC5F8E97D-9738-46F5-B219-E67306F7A4A8
 
 CTouch /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app
-s424892351.436473
-e424892351.439512
+s425153075.406891
+e425153075.410141
 r1
 xTouch
 x/Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app43"Touch build/Debug/Basic_MeshDeformation.appacc56fbf5753b941^2b8570bf5753b941^---0#0#1#--259"Touch build/Debug/Basic_MeshDeformation.app    cd /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app36"7B912E0E-705A-4652-BEB1-D7E2E7D343DF-
-bF5DECD89-C595-46E3-BF0A-9F2688B4C5C2
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app43"Touch build/Debug/Basic_MeshDeformation.app873268335257b941^6d0169335257b941^---0#0#1#--259"Touch build/Debug/Basic_MeshDeformation.app    cd /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderOculusDemos/Basic_MeshDeformation/xcode/build/Debug/Basic_MeshDeformation.app36"89DB6157-C6FA-447F-BA23-25710DEC834F-
+b2D339F58-7ECE-4A0B-B29B-DE078CC3D609
 

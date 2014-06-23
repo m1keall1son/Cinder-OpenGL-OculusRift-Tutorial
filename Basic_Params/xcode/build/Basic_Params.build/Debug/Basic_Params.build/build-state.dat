@@ -4400,9 +4400,9 @@ t1366821758
 s4736
 
 N/Users/destructor/Documents/cinder/lib/libcinder_d.a
-c0000000051DB3B46000000000178B748
-t1373322054
-s24688456
+c0000000053A6E70D00000000017C92F8
+t1403447053
+s24941304
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_Params/resources/CinderApp.icns
 c0000000053A1FFBC0000000000070375
@@ -4434,7 +4434,7 @@ t1403126220
 s2369632
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app
-t1403126205
+t1403126221
 s102
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app/Contents/Info.plist
@@ -4442,8 +4442,8 @@ t1403126123
 s1496
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app/Contents/MacOS/Basic_Params
-t1403126221
-s4266632
+t1403458166
+s4127024
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app/Contents/PkgInfo
 t1403126123
@@ -4462,7 +4462,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies919bfd4a3952b941^8925014b3952b941^---0#1#1#--18"Check dependencies36"1049B365-9EE3-48B0-BA55-C574FE4FCD92-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies639b6cf54957b941^290975f54957b941^---0#1#1#--18"Check dependencies36"66D195FE-3B77-4301-8E5F-915274802778-
 
 CCompileC build/Basic_Params.build/Debug/Basic_Params.build/Objects-normal/i386/Basic_ParamsApp.o /Users/destructor/Documents/cinderOculusDemos/Basic_Params/src/Basic_ParamsApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s424819019.002561
@@ -4495,8 +4495,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy bu
 b46179393-FE15-4EBD-B0C0-5E7BE377E577
 
 CLd /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app/Contents/MacOS/Basic_Params normal i386
-s424819020.489539
-e424819021.216460
+s425150965.473145
+e425150966.134335
 r1
 xLd
 x/Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app/Contents/MacOS/Basic_Params
@@ -4580,8 +4580,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app/Contents/MacOS/Basic_Params71"Ld build/Debug/Basic_Params.app/Contents/MacOS/Basic_Params normal i3864a627d4c3952b941^1a6b374d3952b941^---0#0#1#--1309"Ld build/Debug/Basic_Params.app/Contents/MacOS/Basic_Params normal i386    cd /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug -F/Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug -filelist /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Basic_Params.build/Debug/Basic_Params.build/Objects-normal/i386/Basic_Params.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Basic_Params.build/Debug/Basic_Params.build/Objects-normal/i386/Basic_Params_dependency_info.dat -o /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app/Contents/MacOS/Basic_Params36"7BD6E257-D172-4EAF-9472-54A0F284625C-
-bBD8815A0-012D-43C9-B869-94D729C55767
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app/Contents/MacOS/Basic_Params71"Ld build/Debug/Basic_Params.app/Contents/MacOS/Basic_Params normal i386562d79f54957b941^286522f64957b941^---0#0#1#--1309"Ld build/Debug/Basic_Params.app/Contents/MacOS/Basic_Params normal i386    cd /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug -F/Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug -filelist /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Basic_Params.build/Debug/Basic_Params.build/Objects-normal/i386/Basic_Params.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Basic_Params.build/Debug/Basic_Params.build/Objects-normal/i386/Basic_Params_dependency_info.dat -o /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app/Contents/MacOS/Basic_Params36"BEB29D10-E590-428E-A47E-8E0393397877-
+bAA985C4F-425F-465D-BA2C-3DBFA57A48DA
 
 CProcessInfoPlistFile /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app/Contents/Info.plist /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/Info.plist
 s424818923.326847
@@ -5403,11 +5403,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precomp
 b46179393-FE15-4EBD-B0C0-5E7BE377E577
 
 CTouch /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app
-s424819021.217395
-e424819021.221961
+s425150966.135161
+e425150966.138527
 r1
 xTouch
 x/Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Touch /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app34"Touch build/Debug/Basic_Params.appafb5374d3952b941^9ed3384d3952b941^---0#0#1#--223"Touch build/Debug/Basic_Params.app    cd /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app36"7FA31B06-C470-409B-9788-6BF9BDBF1925-
-bBD8815A0-012D-43C9-B869-94D729C55767
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Touch /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app34"Touch build/Debug/Basic_Params.appcfa322f64957b941^c07723f64957b941^---0#0#1#--223"Touch build/Debug/Basic_Params.app    cd /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderOculusDemos/Basic_Params/xcode/build/Debug/Basic_Params.app36"2D11DAD8-3ACF-4BBA-A683-0B1F74EAF29D-
+bAA985C4F-425F-465D-BA2C-3DBFA57A48DA
 

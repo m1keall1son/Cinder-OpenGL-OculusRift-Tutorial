@@ -4450,9 +4450,9 @@ t1366821758
 s25705
 
 N/Users/destructor/Documents/cinder/lib/libcinder_d.a
-c0000000051DB3B46000000000178B748
-t1373322054
-s24688456
+c0000000053A6E70D00000000017C92F8
+t1403447053
+s24941304
 
 N/Users/destructor/Documents/cinderOculusDemos/MultipleCameras/resources/CinderApp.icns
 c00000000539DDE080000000000070375
@@ -4475,7 +4475,7 @@ t1402854920
 s301
 
 N/Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app
-t1403129995
+t1403456881
 s102
 
 N/Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app/Contents/Info.plist
@@ -4483,8 +4483,8 @@ t1402857950
 s1505
 
 N/Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app/Contents/MacOS/MultipleCameras
-t1403130028
-s3265916
+t1403456881
+s3140912
 
 N/Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app/Contents/PkgInfo
 t1402857950
@@ -4512,7 +4512,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies976f412a4852b941^7654452a4852b941^---0#1#1#--18"Check dependencies36"DDDAC988-6A11-4D1B-9DC2-BC39C77C36CC-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies98da4a1f4e57b941^9772521f4e57b941^---0#1#1#--18"Check dependencies36"92DC36CC-1040-4A4D-9BD3-E9BE1C5ADD95-
 
 CCompileC build/MultipleCameras.build/Debug/MultipleCameras.build/Objects-normal/i386/MultipleCamerasApp.o /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/src/MultipleCamerasApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s424822826.265944
@@ -4558,8 +4558,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy bu
 bAA68B39D-ACA5-48D6-BF8A-B497158E9D1F
 
 CLd /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app/Contents/MacOS/MultipleCameras normal i386
-s424822827.910123
-e424822828.575833
+s425149681.229891
+e425149681.900492
 r1
 xLd
 x/Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app/Contents/MacOS/MultipleCameras
@@ -4581,6 +4581,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.eprintf.a
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
@@ -4615,13 +4617,11 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
@@ -4643,8 +4643,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Link /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app/Contents/MacOS/MultipleCameras77"Ld build/Debug/MultipleCameras.app/Contents/MacOS/MultipleCameras normal i386030ae92b4852b941^b66a932c4852b941^---0#0#1#--1357"Ld build/Debug/MultipleCameras.app/Contents/MacOS/MultipleCameras normal i386    cd /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug -F/Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug -filelist /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/MultipleCameras.build/Debug/MultipleCameras.build/Objects-normal/i386/MultipleCameras.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/MultipleCameras.build/Debug/MultipleCameras.build/Objects-normal/i386/MultipleCameras_dependency_info.dat -o /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app/Contents/MacOS/MultipleCameras36"02778DFA-33F0-4DE9-AA47-9A9B8B3CC3D1-
-b9DF1D0B1-229A-45BD-84BB-E050A58B7ED9
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Link /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app/Contents/MacOS/MultipleCameras77"Ld build/Debug/MultipleCameras.app/Contents/MacOS/MultipleCameras normal i38675e63af14457b941^6a88e6f14457b941^---0#0#1#--1357"Ld build/Debug/MultipleCameras.app/Contents/MacOS/MultipleCameras normal i386    cd /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug -F/Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug -filelist /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/MultipleCameras.build/Debug/MultipleCameras.build/Objects-normal/i386/MultipleCameras.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/MultipleCameras.build/Debug/MultipleCameras.build/Objects-normal/i386/MultipleCameras_dependency_info.dat -o /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app/Contents/MacOS/MultipleCameras36"CB471742-D570-4556-8129-06CA78DEF3EA-
+bE531A09A-F95D-413C-86CF-5CAA3D95C695
 
 CProcessInfoPlistFile /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app/Contents/Info.plist /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/Info.plist
 s424550750.550144
@@ -5466,11 +5466,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precomp
 bAA68B39D-ACA5-48D6-BF8A-B497158E9D1F
 
 CTouch /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app
-s424822828.576823
-e424822828.580988
+s425149681.901377
+e425149681.904664
 r1
 xTouch
 x/Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Touch /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app37"Touch build/Debug/MultipleCameras.app67b6932c4852b941^e0bc942c4852b941^---0#0#1#--235"Touch build/Debug/MultipleCameras.app    cd /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app36"62C34F25-A50D-4E85-A3D2-9BF4CCCAF0C2-
-b9DF1D0B1-229A-45BD-84BB-E050A58B7ED9
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Touch /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app37"Touch build/Debug/MultipleCameras.app68cae6f14457b941^e998e7f14457b941^---0#0#1#--235"Touch build/Debug/MultipleCameras.app    cd /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderOculusDemos/MultipleCameras/xcode/build/Debug/MultipleCameras.app36"6C7C501A-4F75-4E87-ADB2-91997F0C8F38-
+bE531A09A-F95D-413C-86CF-5CAA3D95C695
 

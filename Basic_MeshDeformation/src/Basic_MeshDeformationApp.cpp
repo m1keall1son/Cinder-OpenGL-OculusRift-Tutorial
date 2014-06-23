@@ -102,6 +102,9 @@ void Basic_MeshDeformationApp::setup()
     //load the GLSL
     mGlsl = gl::GlslProg::create( vertex.c_str(), fragment.c_str() );
     
+    
+    ///STOP COPY
+    
     mCam.setPerspective(45, getWindowAspectRatio(), .1, 10000);
     mCam.lookAt( Vec3f(0,150,600), Vec3f(0,0,0), Vec3f::yAxis() );
     
