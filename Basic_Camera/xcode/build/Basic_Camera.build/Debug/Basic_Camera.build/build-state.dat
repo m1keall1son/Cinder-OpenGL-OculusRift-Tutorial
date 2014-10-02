@@ -4395,9 +4395,9 @@ t1403128177
 s459637
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/src/Basic_CameraApp.cpp
-c00000000542D77DA0000000000000968
-t1412265946
-s2408
+c00000000542D8754000000000000098B
+t1412269908
+s2443
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/Basic_Camera_Prefix.pch
 c0000000053A20971000000000000012D
@@ -4415,11 +4415,11 @@ t1403128533
 s153
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_CameraApp.o
-t1412265947
+t1412269910
 s2009720
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app
-t1412265899
+t1412265948
 s102
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app/Contents/Info.plist
@@ -4427,8 +4427,8 @@ t1412265714
 s1496
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app/Contents/MacOS/Basic_Camera
-t1412265948
-s2762356
+t1412269910
+s2762348
 
 N/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app/Contents/PkgInfo
 t1412265714
@@ -4451,11 +4451,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8defb35aafddb941^e1d3b45aafddb941^---0#1#1#--18"Check dependencies36"A8521ABA-E9F6-4B46-AB55-98A61CBADBE9-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesdc6460d4beddb941^68cc68d4beddb941^---0#1#1#--18"Check dependencies36"CC552135-E028-4437-AE82-7DFA26A9232E-
 
 CCompileC build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_CameraApp.o /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/src/Basic_CameraApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s433958746.719511
-e433958747.916801
+s433962708.420208
+e433962710.198813
 r1
 xCompileC
 xbuild/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_CameraApp.o
@@ -4467,8 +4467,8 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/src/Basic_CameraApp.cpp
 d/Users/destructor/Documents/cinder/include/cinder/app/AppNative.h
 d/Users/destructor/Documents/cinder/include/cinder/Camera.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/src/Basic_CameraApp.cpp239"CompileC build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_CameraApp.o /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/src/Basic_CameraApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerf643b85aafddb941^ccb3ea5bafddb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/destructor/Documents/cinderOculusDemos/Basic_Camera/src/Basic_CameraApp.cpp0000000000000000^3329"CompileC build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_CameraApp.o /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/src/Basic_CameraApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Basic_Camera-generated-files.hmap -I/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Basic_Camera-own-target-headers.hmap -I/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Basic_Camera-all-target-headers.hmap -iquote /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Basic_Camera-project-headers.hmap -iquote../../../cinder/include -iquote../include -I/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/include -I../../../cinder/boost -I/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/DerivedSources/i386 -I/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/DerivedSources -F/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug -include /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Basic_Camera_Prefix-fawxejnainlckbeewprpciqawshd/Basic_Camera_Prefix.pch -MMD -MT dependencies -MF /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_CameraApp.d --serialize-diagnostics /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_CameraApp.dia -c /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/src/Basic_CameraApp.cpp -o /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_CameraApp.o36"1B3D93D3-1D87-49D8-B08C-FBA187D8B0A4-
-b9F5D1946-91D9-4BEB-8A08-EA9C0042006D
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/src/Basic_CameraApp.cpp239"CompileC build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_CameraApp.o /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/src/Basic_CameraApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler61a46bd4beddb941^b4e732d6beddb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/destructor/Documents/cinderOculusDemos/Basic_Camera/src/Basic_CameraApp.cpp0000000000000000^3329"CompileC build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_CameraApp.o /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/src/Basic_CameraApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Basic_Camera-generated-files.hmap -I/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Basic_Camera-own-target-headers.hmap -I/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Basic_Camera-all-target-headers.hmap -iquote /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Basic_Camera-project-headers.hmap -iquote../../../cinder/include -iquote../include -I/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/include -I../../../cinder/boost -I/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/DerivedSources/i386 -I/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/DerivedSources -F/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug -include /var/folders/9x/zg1gb2r927sg2dg2dggw48xh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Basic_Camera_Prefix-fawxejnainlckbeewprpciqawshd/Basic_Camera_Prefix.pch -MMD -MT dependencies -MF /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_CameraApp.d --serialize-diagnostics /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_CameraApp.dia -c /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/src/Basic_CameraApp.cpp -o /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_CameraApp.o36"8FED51D1-CBDB-48B4-9417-225FF8EB36C4-
+bBCD9D5BE-3C2B-4DB4-9B6D-0F8976D7E7CC
 
 CCpResource /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/resources/CinderApp.icns build/Debug/Basic_Camera.app/Contents/Resources/CinderApp.icns
 s424821333.638240
@@ -4481,8 +4481,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy bu
 b809D2924-8910-47C5-8C90-2394A47117ED
 
 CLd /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app/Contents/MacOS/Basic_Camera normal i386
-s433958747.919781
-e433958748.818918
+s433962710.201532
+e433962710.901292
 r1
 xLd
 x/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app/Contents/MacOS/Basic_Camera
@@ -4504,8 +4504,6 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.eprintf.a
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
@@ -4540,11 +4538,13 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
@@ -4566,8 +4566,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app/Contents/MacOS/Basic_Camera71"Ld build/Debug/Basic_Camera.app/Contents/MacOS/Basic_Camera normal i386488beb5bafddb941^b9a5d15cafddb941^---0#0#1#--1309"Ld build/Debug/Basic_Camera.app/Contents/MacOS/Basic_Camera normal i386    cd /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug -F/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug -filelist /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_Camera.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_Camera_dependency_info.dat -o /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app/Contents/MacOS/Basic_Camera36"0D4202DD-7932-4B47-B0BE-CAC6A7BFA8F8-
-b9F5D1946-91D9-4BEB-8A08-EA9C0042006D
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app/Contents/MacOS/Basic_Camera71"Ld build/Debug/Basic_Camera.app/Contents/MacOS/Basic_Camera normal i3867fa533d6beddb941^1fbce6d6beddb941^---0#0#1#--1309"Ld build/Debug/Basic_Camera.app/Contents/MacOS/Basic_Camera normal i386    cd /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug -F/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug -filelist /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_Camera.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Basic_Camera.build/Debug/Basic_Camera.build/Objects-normal/i386/Basic_Camera_dependency_info.dat -o /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app/Contents/MacOS/Basic_Camera36"81DA507D-63CA-40C9-9238-402FF33F2E5A-
+bBCD9D5BE-3C2B-4DB4-9B6D-0F8976D7E7CC
 
 CProcessInfoPlistFile /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app/Contents/Info.plist /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/Info.plist
 s433958514.024990
@@ -6198,11 +6198,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precomp
 b809D2924-8910-47C5-8C90-2394A47117ED
 
 CTouch /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app
-s433958748.820007
-e433958748.824825
+s433962710.902119
+e433962710.905614
 r1
 xTouch
 x/Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Touch /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app34"Touch build/Debug/Basic_Camera.appcff5d15cafddb941^b728d35cafddb941^---0#0#1#--223"Touch build/Debug/Basic_Camera.app    cd /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app36"2DC55DA5-31CE-4024-9027-4B3D1CCBB995-
-b9F5D1946-91D9-4BEB-8A08-EA9C0042006D
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Touch /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app34"Touch build/Debug/Basic_Camera.app72fae6d6beddb941^e9d6e7d6beddb941^---0#0#1#--223"Touch build/Debug/Basic_Camera.app    cd /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode    /usr/bin/touch -c /Users/destructor/Documents/cinderOculusDemos/Basic_Camera/xcode/build/Debug/Basic_Camera.app36"A8FDF39C-6C6C-43A0-8F0D-790635066679-
+bBCD9D5BE-3C2B-4DB4-9B6D-0F8976D7E7CC
 

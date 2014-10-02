@@ -73,7 +73,7 @@ void MultipleCamerasApp::setup()
     
     
     //set up cameras and seperate rendering fbo
-    mCamera.setPerspective(45, getWindowAspectRatio(), .1, 10000);
+    mCamera.setPerspective(45, getWindowAspectRatio(), .1, 1000000);
     mCamera.lookAt(Vec3f(5,5,5), Vec3f(0,0,0), Vec3f::yAxis() );
 
     mCamera2.setPerspective(45, getWindowAspectRatio(), .1, 10000);
@@ -130,6 +130,7 @@ void MultipleCamerasApp::update()
     
     //bind the fbo and draw the cube in there from the persepective of camera 2
     mFbo.bindFramebuffer();
+    
     gl::clear( Color(0.,0.,0.) );
     gl::color(1.,1.,1.);
     gl::pushMatrices();
@@ -140,6 +141,7 @@ void MultipleCamerasApp::update()
     drawCube();
     
     gl::popMatrices();
+    
     mFbo.unbindFramebuffer();
 
     

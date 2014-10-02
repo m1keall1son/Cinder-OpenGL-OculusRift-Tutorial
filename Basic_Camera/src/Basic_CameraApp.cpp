@@ -14,7 +14,9 @@ class Basic_CameraApp : public AppNative {
 	void draw();
     
     CameraPersp mPerspCam;
+    
     CameraOrtho mOrthoCam;
+    
     bool bUsePersp;
     
 };
@@ -24,15 +26,20 @@ void Basic_CameraApp::setup()
     
     //setup the camera's perspective with an Fov and aspect ratio
     //the last 2 args are the near clipping and far clipping planes
+    
     mPerspCam.setPerspective(45, getWindowAspectRatio(), .1, 100000);
     
     //set the eyepoint, the center of interest and the up direction
+    
     mPerspCam.lookAt(Vec3f(0,0,100), Vec3f(0,0,0), Vec3f::yAxis() );
 
     
     //set the ortho bounds (Left, Right, Down, Up) and the near and far clipping planes
+    
     mOrthoCam.setOrtho( -64, 64, -48, 48, .1, 100000 );
+    
     //set the eyepoint, the center of interest and the up direction
+    
     mOrthoCam.lookAt(Vec3f(0,0,100), Vec3f(0,0,0), Vec3f::yAxis() );
     
     
@@ -63,7 +70,7 @@ void Basic_CameraApp::draw()
     }else{
         gl::setMatrices( mOrthoCam );
     }
-    
+        
     gl::pushMatrices();
     //cause the cube to rotate on all axies
     gl::multModelView( Matrix44f::createRotation(Vec3f(1,1,1), toRadians( (float)getElapsedFrames() ) ) );

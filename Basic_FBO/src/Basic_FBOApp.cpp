@@ -26,7 +26,12 @@ void Basic_FBOApp::setup()
     //to create one, we need to give it a size and an optional format
     //we will make it with a default format
     
-    mFbo = gl::Fbo( getWindowWidth()/2, getWindowHeight(), gl::Fbo::Format() );
+    gl::Fbo::Format fmt;
+    fmt.setColorInternalFormat(GL_RGBA8);
+    fmt.setSamples(8);
+    fmt.enableDepthBuffer();
+    
+    mFbo = gl::Fbo( getWindowWidth()/2, getWindowHeight(), fmt);
     
     //FBOs will be allocated and the pixels will be the color of whatever was on the GPU, so we need to clean it before using it
     mFbo.bindFramebuffer();
