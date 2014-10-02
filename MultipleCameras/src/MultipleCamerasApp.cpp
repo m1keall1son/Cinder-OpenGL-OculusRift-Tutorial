@@ -43,7 +43,8 @@ typedef std::shared_ptr<gl::Light> LightRef;
 class MultipleCamerasApp : public AppNative {
   public:
 	void setup();
-	void mouseDown( MouseEvent event );	
+	void mouseDown( MouseEvent event );
+    void prepareSettings( Settings* settings ){ settings->setFullScreen(); }
 	void update();
 	void draw();
     void drawCube();

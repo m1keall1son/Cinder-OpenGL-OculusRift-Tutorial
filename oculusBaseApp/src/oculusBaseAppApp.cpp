@@ -106,8 +106,6 @@ void oculusBaseApp::render(){
     gl::enableDepthRead();
     gl::enableDepthWrite();
     
-    gl::setMatrices( mCamera );
-    
     gl::pushMatrices();
     gl::translate(Vec3f(0,0,500));
     gl::multModelView( Matrix44f::createRotation( Vec3f(0,1,0), toRadians((float)i++)) );

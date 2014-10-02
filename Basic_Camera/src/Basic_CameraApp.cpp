@@ -31,7 +31,7 @@ void Basic_CameraApp::setup()
 
     
     //set the ortho bounds (Left, Right, Down, Up) and the near and far clipping planes
-    mOrthoCam.setOrtho( -50, 50, -50, 50, .1, 100000 );
+    mOrthoCam.setOrtho( -64, 64, -48, 48, .1, 100000 );
     //set the eyepoint, the center of interest and the up direction
     mOrthoCam.lookAt(Vec3f(0,0,100), Vec3f(0,0,0), Vec3f::yAxis() );
     
@@ -68,8 +68,10 @@ void Basic_CameraApp::draw()
     //cause the cube to rotate on all axies
     gl::multModelView( Matrix44f::createRotation(Vec3f(1,1,1), toRadians( (float)getElapsedFrames() ) ) );
     
-    gl::drawColorCube(Vec3f(0,0,0), Vec3f(25,25,25) );
-    
+    gl::drawColorCube(Vec3f(-10,0,0), Vec3f(25,25,25) );
+    gl::drawColorCube(Vec3f(10,0,-25), Vec3f(25,25,25) );
+    gl::drawColorCube(Vec3f(20,0,-50), Vec3f(25,25,25) );
+
     gl::popMatrices();
     
     //draw 2D things without the 3D camera

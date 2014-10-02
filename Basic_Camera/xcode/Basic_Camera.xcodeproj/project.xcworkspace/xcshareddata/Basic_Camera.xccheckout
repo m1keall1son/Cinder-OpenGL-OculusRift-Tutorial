@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09150A1A-A7A1-4925-A677-8537D7CCAA79</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Basic_Camera</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ECED0E2A-4400-43E0-A295-F56AEF74A6A7</key>
+		<string>https://github.com/m1keall1son/Cinder_OpenGL_OculusRift_Tutorial.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Basic_Camera/xcode/Basic_Camera.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ECED0E2A-4400-43E0-A295-F56AEF74A6A7</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/m1keall1son/Cinder_OpenGL_OculusRift_Tutorial.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ECED0E2A-4400-43E0-A295-F56AEF74A6A7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ECED0E2A-4400-43E0-A295-F56AEF74A6A7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cinderOculusDemos</string>
+		</dict>
+	</array>
+</dict>
+</plist>
